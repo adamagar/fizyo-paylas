@@ -1,5 +1,5 @@
 site_name: Fizyo Paylaş
-site_url: https://fizyopaylas.com
+site_url: https://adamagar.github.io/fizyo-paylas
 theme:
   name: material
   font:
@@ -34,9 +34,6 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 copyright: "© 2025 FizyoPaylaş. Tüm hakları saklıdır."
-
-extra:
-  assets_dir: docs/assets
 
 nav:
   - Ana Sayfa: index.md
