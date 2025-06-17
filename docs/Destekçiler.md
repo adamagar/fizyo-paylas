@@ -18,20 +18,11 @@ Eğer siz de bireysel ya da kurumsal sponsor olarak bu projeye destek olmak iste
 
 ## Şu Ana Kadarki Destekçilerimiz
 
-### 🧶 Knit Software
-
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 10px;">
-      <a href="https://knitsoftware.com" target="_blank">
-        <img src="/docs/assets/knit.png" alt="Knit Software Logo" width="100"/>
-      </a>
-    </td>
-    <td>
-      <p>
-        <a href="https://knitsoftware.com" target="_blank"><strong>Knit Software</strong></a>, 
-        FizyoPaylaş’a <strong>web sitesi barındırma (hosting)</strong>, <strong>Google Meet altyapısı</strong> ve <strong>teknik destek</strong> konularında katkı sağlamaktadır. Kendilerine teşekkür ederiz.
-      </p>
-    </td>
-  </tr>
-</table>
+### 🧶 Knit Software  
+<div style="display: flex; align-items: center; gap: 16px;">
+  <img src="/assets/knit.jpg" alt="Knit Software Logo" width="120"/>
+  <p>
+    Web sitemizin barınması (hosting), Google Meet altyapısı ve teknik destek konusunda katkı sağladıkları için <strong>Knit Software</strong>’e teşekkür ederiz.
+  </p>
+</div>
+<p>Web sitesi: <a href="https://www.knitsoftware.com" target="_blank">https://www.knitsoftware.com</a></p>
