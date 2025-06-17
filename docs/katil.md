@@ -9,10 +9,10 @@ FizyoPaylaş'a katılmak ücretsizdir ve herkese açıktır. Katılım için tek
 
 1. **WhatsApp duyuru grubuna katıl:**  
    Toplantı linki toplantı günü burada paylaşılır.  
-   👉 [WhatsApp Grubuna Katıl](#) *(gerçek link eklenecek)*
+   👉 [WhatsApp Grubuna Katıl](https://chat.whatsapp.com/DoQDwhhGB1N18IXJ8aJgsZ)
 
-2. **Zoom toplantısına bağlan:**  
-   Her hafta Perşembe günü saat 21:00’da Zoom bağlantısı WhatsApp grubunda paylaşılır.
+2. **Google meet toplantısına bağlan:**  
+   Her hafta Perşembe günü saat 21:00’da Google meet bağlantısı WhatsApp grubunda paylaşılır.
 
 3. **Katılım kurallarına saygı göster:**  
    Katılımcılardan beklenenler:

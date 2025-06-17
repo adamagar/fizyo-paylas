@@ -19,7 +19,7 @@ FizyoPaylaş nedir?
 ---
 
 Toplantı bağlantısı nereden paylaşılır?  
-👉 [WhatsApp duyuru grubumuza katılmak için tıklayın](#)  
+👉 [WhatsApp duyuru grubumuza katılmak için tıklayın](https://chat.whatsapp.com/DoQDwhhGB1N18IXJ8aJgsZ)  
 (Toplantı linkleri toplantı günü bu gruptan paylaşılır)
 
 ---
