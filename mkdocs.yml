@@ -39,7 +39,7 @@ extra:
   assets_dir: docs/assets
 
 nav:
-  - Ana Sayfa: anaSayfa.md
+  - Ana Sayfa: index.md
   - Katıl: katil.md
   - Moderatörler: moderatorler.md
   - Geçmiş Moderatörler: gecmisModeratorler.md
