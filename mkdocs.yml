@@ -37,3 +37,10 @@ copyright: "© 2025 FizyoPaylaş. Tüm hakları saklıdır."
 
 extra:
   assets_dir: docs/assets
+
+nav:
+  - Ana Sayfa: index.md
+  - Katıl: join.md
+  - Moderatörler: moderators.md
+  - Geçmiş Moderatörler: pastModerators.md
+  - Destekçiler: sponsors.md

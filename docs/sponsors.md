@@ -18,9 +18,10 @@ Eğer siz de bireysel ya da kurumsal sponsor olarak bu projeye destek olmak iste
 
 ## Şu Ana Kadarki Destekçilerimiz
 
-### 🧶 Knit Software  
+### 🧶 Knit Software
+
 <div style="display: flex; align-items: center; gap: 16px;">
-  <img src="/assets/knit.jpg" alt="Knit Software Logo" width="120"/>
+  <img src="assets/knit.jpg" alt="Knit Software Logo" width="120"/>
   <p>
     Web sitemizin barınması (hosting), Google Meet altyapısı ve teknik destek konusunda katkı sağladıkları için <strong>Knit Software</strong>’e teşekkür ederiz.
   </p>
