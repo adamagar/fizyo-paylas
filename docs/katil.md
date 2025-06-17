@@ -1,5 +1,5 @@
 # Katıl  
-Her Perşembe 20:30'da (Türkiye Saati) Zoom üzerinden buluşuyoruz.
+Her Perşembe 21:00'da (Türkiye Saati) Google Meet üzerinden buluşuyoruz.
 
 ---
 
@@ -12,7 +12,7 @@ FizyoPaylaş'a katılmak ücretsizdir ve herkese açıktır. Katılım için tek
    👉 [WhatsApp Grubuna Katıl](#) *(gerçek link eklenecek)*
 
 2. **Zoom toplantısına bağlan:**  
-   Her hafta Perşembe günü saat 20:30’da Zoom bağlantısı WhatsApp grubunda paylaşılır.
+   Her hafta Perşembe günü saat 21:00’da Zoom bağlantısı WhatsApp grubunda paylaşılır.
 
 3. **Katılım kurallarına saygı göster:**  
    Katılımcılardan beklenenler:

@@ -1,6 +1,6 @@
 # Ana Sayfa 
-Her Perşembe 20:30 (Türkiye Saati)  
-*fizyopaylas.com logosu buraya gelecek*
+Her Perşembe 21:00 (Türkiye Saati)  
+
 
 ---
 
@@ -11,7 +11,7 @@ Vaka paylaşımları, klinik tecrübeler, hasta iletişimi, özel sektör deneyi
 ---
 
 FizyoPaylaş nedir?  
-- Her hafta düzenlenen 1 saatlik samimi bir Zoom toplantısıdır.  
+- Her hafta düzenlenen 1 saatlik samimi bir Google Meet toplantısıdır.  
 - Fizik tedavi alanında çalışan ya da bu alana ilgi duyan herkese açıktır.  
 - Soru sorabilir, farklı bakış açıları duyabilir ve diğer fizyoterapistlerle tanışabilirsin.  
 - Katılım ücretsizdir.
@@ -20,7 +20,7 @@ FizyoPaylaş nedir?
 
 Toplantı bağlantısı nereden paylaşılır?  
 👉 [WhatsApp duyuru grubumuza katılmak için tıklayın](#)  
-(Zoom linkleri toplantı günü bu gruptan paylaşılır)
+(Toplantı linkleri toplantı günü bu gruptan paylaşılır)
 
 ---
 
