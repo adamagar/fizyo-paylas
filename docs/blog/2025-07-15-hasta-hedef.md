@@ -1,3 +1,9 @@
+---
+title: "Hastanın Beklentilerini ve Hedeflerini Anlamak"
+date: 2025-07-15
+description: "Hastanın ilk seansta terapiden ne beklediğini ve kişisel hedeflerini nasıl anlamalıyız?"
+image: ../assets/blog/hasta-hedef.jpg
+---
 # Hastanın Beklentilerini ve Hedeflerini Anlamak  
 ## (“Neden”i Ortaya Çıkarmak)
 ![Blog görseli](../assets/blog/hasta-hedef.jpg)

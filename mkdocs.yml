@@ -10,6 +10,7 @@ theme:
   favicon: assets/fizyo_paylas.ico
   features:
     - navigation.footer
+    - navigation.indexes
   palette:
     # Dark Mode
     - scheme: slate
@@ -45,4 +46,10 @@ nav:
       - Hastanın Hedefini Anlamak: blog/2025-07-15-hasta-hedef.md
 
 plugins:
-  - blog
+  - blogging:
+      dirs:
+        - blog
+      use_directory_urls: true
+      archive: false
+      categories: false
+      tags: false

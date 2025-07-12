@@ -40,3 +40,22 @@ Sadece **nazik**, **destekleyici** ve **saygılı** olman yeterli.
 
 Birlikte öğrenelim, paylaşalım ve güçlenelim.  
 **#FizyoPaylaş**
+
+---
+
+## 📝 Son Blog Yazıları
+
+{% for post in blog.posts[:5] %}
+### [{{ post.title }}]({{ post.url }})
+📅 {{ post.date.strftime('%d %B %Y') }}
+
+{{ post.description }}
+
+{% endfor %}
+
+{% if blog.pages > 1 %}
+**Sayfalar:**  
+{% for i in range(1, blog.pages + 1) %}
+[{{ i }}](/page/{{ i }}/) 
+{% endfor %}
+{% endif %}
