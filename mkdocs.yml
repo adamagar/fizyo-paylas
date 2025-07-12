@@ -41,3 +41,8 @@ nav:
   - Moderatörler: moderatorler.md
   - Geçmiş Moderatörler: gecmisModeratorler.md
   - Destekçiler: destekciler.md
+  - Blog:
+      - Hastanın Hedefini Anlamak: blog/2025-07-15-hasta-hedef.md
+
+plugins:
+  - blog
