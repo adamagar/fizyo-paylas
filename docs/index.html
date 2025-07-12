@@ -1,0 +1,62 @@
+<h1>Ana Sayfa</h1>
+<p>Her Perşembe 21:00 (Türkiye Saati)</p>
+
+<hr />
+
+<p>FizyoPaylaş, fizyoterapistler için haftalık çevrim içi bir buluşma ortamıdır.<br>
+Gündemimiz serbesttir; her hafta bir konu belirlenir, ama sohbetin akışına göre bu konu değişebilir.<br>
+Vaka paylaşımları, klinik tecrübeler, hasta iletişimi, özel sektör deneyimleri, yurtdışı süreçleri ve daha fazlası...</p>
+
+<hr />
+
+<h2>FizyoPaylaş nedir?</h2>
+<ul>
+  <li>Her hafta düzenlenen 1 saatlik samimi bir Google Meet toplantısıdır.</li>
+  <li>Fizik tedavi alanında çalışan ya da bu alana ilgi duyan herkese açıktır.</li>
+  <li>Soru sorabilir, farklı bakış açıları duyabilir ve diğer fizyoterapistlerle tanışabilirsin.</li>
+  <li>Katılım ücretsizdir.</li>
+</ul>
+
+<hr />
+
+<h2>Toplantı bağlantısı nereden paylaşılır?</h2>
+<p>👉 <a href="https://chat.whatsapp.com/DoQDwhhGB1N18IXJ8aJgsZ">WhatsApp duyuru grubumuza katılmak için tıklayın</a><br>
+(Toplantı linkleri toplantı günü bu gruptan paylaşılır)</p>
+
+<hr />
+
+<h2>Kimler katılabilir?</h2>
+<ul>
+  <li>Aktif olarak çalışan fizyoterapistler</li>
+  <li>Öğrenciler ve yeni mezunlar</li>
+  <li>Kendi kliniğini açmak isteyenler</li>
+  <li>Kamuda ya da özelde çalışanlar</li>
+  <li>Yurtdışında fizyoterapi yapmak isteyenler</li>
+</ul>
+
+<hr />
+
+<h2>Katılım şartı:</h2>
+<p>Sadece <strong>nazik</strong>, <strong>destekleyici</strong> ve <strong>saygılı</strong> olman yeterli.</p>
+
+<hr />
+
+<p>Birlikte öğrenelim, paylaşalım ve güçlenelim.<br><strong>#FizyoPaylaş</strong></p>
+
+<hr />
+
+<h2>📝 Son Blog Yazıları</h2>
+
+{% for post in blog.posts[:5] %}
+  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  <p>📅 {{ post.date.strftime('%d %B %Y') }}</p>
+  <p>{{ post.description }}</p>
+{% endfor %}
+
+{% if blog.pages > 1 %}
+  <p><strong>Sayfalar:</strong><br>
+  {% for i in range(1, blog.pages + 1) %}
+    <a href="/page/{{ i }}/">{{ i }}</a>
+  {% endfor %}
+  </p>
+{% endif %}
