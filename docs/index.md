@@ -42,26 +42,16 @@ Sadece **nazik**, **destekleyici** ve **saygılı** olman yeterli.
 
 ---
 
-Birlikte öğrenelim, paylaşalım ve güçlenelim.  
-**#FizyoPaylaş**
+## Son Blog Yazısı
+
+<a href="blog/2025-07-15-hasta-hedef/" style="text-decoration: none; color: inherit;">
+  <img src="assets/blog/hasta-hedef.jpg" alt="Hastanın Beklentilerini ve Hedeflerini Anlamak" style="width:100%;max-width:600px;border-radius:8px;"/>
+  <h2 style="margin-top: 1em;">Hastanın Beklentilerini ve Hedeflerini Anlamak</h2>
+</a>
+<p>Hastanın ilk seansta terapiden ne beklediğini ve kişisel hedeflerini nasıl anlamalıyız?</p>
+<p><a href="blog/2025-07-15-hasta-hedef/" style="font-weight:bold;">Devamını oku →</a></p>
 
 ---
 
-## 📝 Son Blog Yazıları
-
-{% raw %}
-{% for post in blog.posts[:5] %}
-### [{{ post.title }}]({{ post.url }})
-📅 {{ post.date.strftime('%d %B %Y') }}
-
-{{ post.description }}
-
-{% endfor %}
-
-{% if blog.pages > 1 %}
-**Sayfalar:**  
-{% for i in range(1, blog.pages + 1) %}
-[{{ i }}](/page/{{ i }}/) 
-{% endfor %}
-{% endif %}
-{% endraw %}
+Birlikte öğrenelim, paylaşalım ve güçlenelim.  
+**#FizyoPaylaş**
