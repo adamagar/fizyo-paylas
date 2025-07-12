@@ -42,11 +42,5 @@ Sadece **nazik**, **destekleyici** ve **saygılı** olman yeterli.
 
 ---
 
-## Son Blog Yazıları
-
-{% blog %}
-
----
-
 Birlikte öğrenelim, paylaşalım ve güçlenelim.  
 **#FizyoPaylaş**

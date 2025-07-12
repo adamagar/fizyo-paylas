@@ -1,0 +1,47 @@
+{% extends "main.html" %} {% block content %}
+<h1>Blog</h1>
+<div class="blog-list">
+  {% for post in config.extra.blog_posts %}
+  <article
+    class="md-post md-post--excerpt"
+    style="
+      border: 1px solid #eee;
+      border-radius: 10px;
+      margin-bottom: 24px;
+      padding: 16px;
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    "
+  >
+    <nav class="md-post__authors md-typeset">
+      <span class="md-author">
+        <img
+          src="{{ post.author_avatar }}"
+          alt="{{ post.author }}"
+          style="
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            object-fit: cover;
+          "
+        />
+      </span>
+    </nav>
+    <div style="flex: 1">
+      <div
+        class="md-post__meta md-meta"
+        style="font-size: 0.9em; color: #888; margin-bottom: 8px"
+      >
+        <time datetime="{{ post.date }}">{{ post.date }}</time> &bull; {{
+        post.read_time }} min read
+      </div>
+      <h2 style="margin: 0 0 8px 0">
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </h2>
+      <div style="font-size: 1em; color: #444">{{ post.description }}</div>
+    </div>
+  </article>
+  {% endfor %}
+</div>
+{% endblock %}

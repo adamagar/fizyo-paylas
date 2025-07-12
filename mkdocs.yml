@@ -2,6 +2,7 @@ site_name: Fizyo Paylaş
 site_url: https://adamagar.github.io/fizyo-paylas
 theme:
   name: material
+  custom_dir: overrides
   font:
     text: Merriweather Sans
     code: Red Hat Mono
@@ -44,6 +45,16 @@ nav:
   - Destekçiler: destekciler.md
   - Blog:
       - Hastanın Hedefini Anlamak: blog/2025-07-15-hasta-hedef.md
+
+extra:
+  blog_posts:
+    - title: "Hastanın Beklentilerini ve Hedeflerini Anlamak"
+      url: blog/2025-07-15-hasta-hedef/
+      date: 2025-07-15
+      author: "Adam Agar"
+      author_avatar: assets/avatar/adam.jpg
+      read_time: 2
+      description: "Hastanın ilk seansta terapiden ne beklediğini ve kişisel hedeflerini nasıl anlamalıyız?"
 
 plugins:
   - blog
