@@ -44,7 +44,7 @@ Sadece **nazik**, **destekleyici** ve **saygılı** olman yeterli.
 
 ## Son Blog Yazıları
 
-{{ blog() }}
+{% blog %}
 
 ---
 
