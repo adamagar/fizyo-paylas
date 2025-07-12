@@ -46,6 +46,7 @@ nav:
       - Hastanın Hedefini Anlamak: blog/2025-07-15-hasta-hedef.md
 
 plugins:
+  - macros:
   - blogging:
       dirs:
         - blog
