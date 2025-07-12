@@ -42,14 +42,9 @@ Sadece **nazik**, **destekleyici** ve **saygılı** olman yeterli.
 
 ---
 
-## Son Blog Yazısı
+## Son Blog Yazıları
 
-<a href="blog/2025-07-15-hasta-hedef/" style="text-decoration: none; color: inherit;">
-  <img src="assets/blog/hasta-hedef.jpg" alt="Hastanın Beklentilerini ve Hedeflerini Anlamak" style="width:100%;max-width:600px;border-radius:8px;"/>
-  <h2 style="margin-top: 1em;">Hastanın Beklentilerini ve Hedeflerini Anlamak</h2>
-</a>
-<p>Hastanın ilk seansta terapiden ne beklediğini ve kişisel hedeflerini nasıl anlamalıyız?</p>
-<p><a href="blog/2025-07-15-hasta-hedef/" style="font-weight:bold;">Devamını oku →</a></p>
+{{ blog() }}
 
 ---
 
